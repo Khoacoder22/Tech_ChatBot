@@ -1,0 +1,13 @@
+streamlit
+openai
+pymilvus
+milvus-lite
+easyocr
+opencv-python-headless
+numpy
+Pillow
+python-dotenv
+pydantic
+pydantic-settings
+tiktoken
+requests
