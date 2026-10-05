@@ -16,41 +16,6 @@ AI Support Assistant is a Streamlit-based chatbot that helps support teams analy
 
 ![AI Support Chatbot Flow](docs/flowchart.png)
 
-```text
-Knowledge Ingestion
-
-Markdown Documents
-        ↓
-     Chunking
-        ↓
-Azure Embedding
-        ↓
-   Milvus Lite
-
-
-Chat Runtime
-
-User Screenshot / Error Text
-        ↓
-   OpenCV + EasyOCR
-        ↓
- Regex / Error Extraction
-        ↓
-   Error Validation
-        ↓
-     Embedding
-        ↓
-   Milvus Search
-        ↓
- Relevant Knowledge
-        ↓
-    gpt-6-luna
-        ↓
-Solution + Citations
-        ↓
-   Streamlit Chat
-```
-
 ## Tech Stack
 
 - Python
