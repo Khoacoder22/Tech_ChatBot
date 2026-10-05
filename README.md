@@ -30,6 +30,19 @@ AI Support Assistant is a Streamlit-based chatbot that helps support teams analy
 
 ## Knowledge Base
 
+Sources include:
+
+- MDN Web Docs – HTTP status codes  
+  https://github.com/mdn/content/tree/main/files/en-us/web/http/reference/status
+
+- Docker Official Documentation – Docker daemon troubleshooting  
+  https://github.com/docker/docs
+
+- Microsoft Azure Documentation – Azure RBAC troubleshooting  
+  https://github.com/MicrosoftDocs/azure-docs
+
+
+
 Local Markdown files are stored in:
 
 ```text
